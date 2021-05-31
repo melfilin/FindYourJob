@@ -1,7 +1,7 @@
 # FindYourJob
-Проект выполнила: Володина Ольга
 
 ## Используются технологии:
 - HTML
 - CSS
+- JavaScript
 - Bootstrap v5
